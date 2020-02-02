@@ -5,4 +5,14 @@ from Udemy: Traversey Media - Modern JavaScript From The Beginning
   I used materialize, jquery, and font awesome to style the UI for this project. It was super fast and easy.
 
   To add a task (li) to the task list (ul) I had to create one and inject it in there with its class names and all that. 
+
+  My internet is getting mad slow so i'm going to work on wild water world.
+}
+
+# 2-2-20 {
+  I was able to write code to clear all of the tasks and remove a single task just now without any assistance. 
+
+  While learning how to filter the tasks I had to look up what indexOf() does, and it will give you the first occurance of whatever you search's index number. I guess if it is true it returns a 1 and if false it returns a -1 or something like that.
+
+  
 }
