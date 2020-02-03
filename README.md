@@ -14,5 +14,7 @@ from Udemy: Traversey Media - Modern JavaScript From The Beginning
 
   While learning how to filter the tasks I had to look up what indexOf() does, and it will give you the first occurance of whatever you search's index number. I guess if it is true it returns a 1 and if false it returns a -1 or something like that.
 
-  
+  I finished the project, now I will try and implement local storage into my wild water world portfolio project. I got a bit confused by the part when I have to splice an index of the local storage array, I look forward to thinking about it again on my personal project.
+
+  This was a great lesson on javascript!
 }
